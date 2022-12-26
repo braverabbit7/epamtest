@@ -1,0 +1,17 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-12-26 18:49 MSK
+Nmap scan report for 178-16-146-182.obit.ru (178.16.146.182)
+Host is up (0.0078s latency).
+Not shown: 49990 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+443/tcp   open  https
+444/tcp   open  snpp
+1723/tcp  open  pptp
+3750/tcp  open  cbos-ip-port
+8080/tcp  open  http-proxy
+36407/tcp open  unknown
+37345/tcp open  unknown
+38733/tcp open  unknown
+43070/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 87.54 seconds
